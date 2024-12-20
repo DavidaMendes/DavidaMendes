@@ -1,7 +1,7 @@
 ## Olá Rede! Sou Davi Mendes 👋
 
 - 🔭 Atualmente estou me especializando na área de back-end
-- 📚 Estudando Django
+- 📚 Estudando Node.js e Ciência de Dados
 - 📫 Contate-me no email: davigmendes137@gmail.com
 
 <hr>
