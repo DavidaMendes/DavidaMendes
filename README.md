@@ -1,18 +1,8 @@
 ## Olá Rede! Sou Davi Mendes 👋
 
 - 🔭 Atualmente estou me especializando na área de back-end
-- 📚 Estudando Node.js e Ciência de Dados
+- 📚 Estudando .NET e Ciência de Dados
 - 📫 Contate-me no email: davigmendes137@gmail.com
-
-<hr>
-<a href="https://github.com/DavidaMendes/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=DavidaMendes&theme=dark" />
-</a>
-<a href="https://github.com/DavidaMendes/convoychat">  
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidaMendes&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>
-<br>
-<br>
 
 <hr>
 <div>
